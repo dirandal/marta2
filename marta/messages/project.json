@@ -1,0 +1,10 @@
+{
+  "frameworks": {
+    "net46":{
+      "dependencies": {
+        "Microsoft.Bot.Builder.Azure": "3.2.3",
+        "Microsoft.AdaptiveCards": "0.5.1"
+      }
+    }
+   }
+}
